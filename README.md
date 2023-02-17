@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif)
+![MasterHead](https://www.shutterstock.com/image-vector/devops-banner-concept-development-operation-260nw-2182404347.jpg)
 <h1 align="center">Hi 👋, I'm Daham Kahawearachchi</h1>
 <h3 align="center">A future Cloud/DevOps engineer from Sri Lanka</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://www.darwinrecruitment.nl/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif”>
+<img align=“right” alt=“Coding” width=“400” src=“(https://camo.githubusercontent.com/9c1519ed98cd930c5ce143a5b61e9cb65a55c3b69b3c390ad5b5ff852e46ed91/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f343634393436342f736b61747465722d70726f6772616d6d65722e676966)”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dck-hub&label=Profile%20views&color=0e75b6&style=flat" alt="dck-hub" /> </p>
