@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/devops-banner-concept-development-operation-260nw-2182404347.jpg)
+![MasterHead](https://www.encora.com/hs-fs/hubfs/HO-BLOG-BusinessCase-DevOps-3-July20-copy-1536x273.png?width=1536&name=HO-BLOG-BusinessCase-DevOps-3-July20-copy-1536x273.png)
 <h1 align="center">Hi 👋, I'm Daham Kahawearachchi</h1>
 <h3 align="center">A future Cloud/DevOps engineer from Sri Lanka</h3>
 <img align=“right” width=“400” src=“(https://camo.githubusercontent.com/9c1519ed98cd930c5ce143a5b61e9cb65a55c3b69b3c390ad5b5ff852e46ed91/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f343634393436342f736b61747465722d70726f6772616d6d65722e676966)”>
